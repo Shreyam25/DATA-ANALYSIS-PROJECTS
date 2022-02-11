@@ -1,7 +1,7 @@
  ### US Accidents Exploratory Data Analysis
  
- US Accidents Exploratory Data Analysis \
- Project name :- US Accidents Exploratory Data Analysis
+ US Accidents Exploratory Data Analysis
+
  The kaggle platform helped me locate a dataset containing detailed data on accidents in the United States.
  During my analysis, I carefully analyzed the datasets and looked for hidden insights.
  
